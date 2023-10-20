@@ -1,0 +1,8 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/git-gru/control-plane-server.git
+	branch = main
+[submodule "app"]
+	path = app
+	url = https://github.com/git-gru/control-plane-app.git
+	branch = main
